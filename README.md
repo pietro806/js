@@ -1,0 +1,1 @@
+Neste repositório está od desafios e exercicios realizados para treino de lógica e aperfeiçoamento do conteúdo. Alguns dos métodos usados para resolver os exercícios são array, for, while, for item, entre outros.
